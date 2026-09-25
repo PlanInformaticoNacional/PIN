@@ -1,0 +1,34 @@
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{enumitem}
+
+\definecolor{navy}{HTML}{1B3A4B}
+\definecolor{gold}{HTML}{C4A35A}
+
+\setmainfont{Helvetica Neue}
+\setsansfont{Helvetica Neue}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{navy}\textbf{Plan Informático Nacional v4.0}}
+\fancyhead[R]{\small\color{gray}Septiembre 2026}
+\fancyfoot[C]{\small\color{gray}CC0 1.0 Dominio Público · República Argentina · \thepage}
+\renewcommand{\headrulewidth}{0.6pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{gold}\leaders\hrule height \headrulewidth\hfill}}
+\renewcommand{\footrule}{\hbox to\headwidth{\color{gold}\leaders\hrule height \footrulewidth\hfill}}
+
+\titleformat{\section}{\Large\bfseries\color{navy}}{\thesection}{0.8em}{}
+\titleformat{\subsection}{\large\bfseries\color{navy}}{\thesubsection}{0.8em}{}
+\titleformat{\subsubsection}{\normalsize\bfseries\color{navy}}{\thesubsubsection}{0.8em}{}
+
+\hypersetup{colorlinks=true,linkcolor=navy,urlcolor=navy}
+
+\setlist[itemize]{leftmargin=1.4em,itemsep=0.2em}
