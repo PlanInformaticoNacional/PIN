@@ -1,5 +1,7 @@
 # Plan Informático Nacional
 
+_LICENCIA: Los textos del Plan están en CC0 1.0 (dominio público). No se pide atribución del autor original._
+
 Estrategia de soberanía tecnológica de la República Argentina. Versión 4.0, septiembre de 2026. Cuatro programas, cinco años, **USD 3.120 millones** y **26.800 empleos directos**. El empleo indirecto multiplica esa cifra por cerca de 2,5.
 
 El Plan no persigue un modelo denso de 200 mil millones de parámetros para igualar un comunicado extranjero. Persigue modelos que corran en manos argentinas, con corpus argentino, energía argentina y profesionales argentinos.
