@@ -10,7 +10,7 @@ El Plan no persigue un modelo denso de 200 mil millones de parámetros para igua
 
 ## Cómo se articulan
 
-La red del Programa 2 liquida, en cadena, el trabajo útil que entrena y evalúa la familia IGA. Esos modelos se destilan y corren, sin nube extranjera, en los dispositivos del Programa 3. La Universidad Hacker Nacional forma a quien diseña, audita y fabrica los tres. El excedente energético argentino sostiene el cómputo y el aparato.
+La red del Programa 2 liquida, en cadena, el trabajo útil que entrena y evalúa la familia IGA. Esos modelos se destilan y corren, sin nube extranjera, en los dispositivos del Programa 3. La Universidad Hacker Nacional forma a quien diseña, audita y fabrica los tres. El excedente energético de P2 sostiene el cómputo de P1. P3 es el aparato donde corre.
 
 ![Infografía de la sinergia: flujos financiero, de capital humano, de software y de hardware](infografias/pin-sinergia.jpg)
 
